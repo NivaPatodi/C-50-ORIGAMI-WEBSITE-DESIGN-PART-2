@@ -1,0 +1,47 @@
+h1
+{
+    background-image: url("body2IMG.jpg");
+    color: white;
+}
+
+.menu
+{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+
+.header:link
+{
+    color: white;
+}
+
+.bodyIMG
+{
+    background-image: url("body2IMG.jpg");
+    font-family: serif;
+    color: white;
+}
+
+.grid
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid img
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.origami
+{
+    border-radius: 0px;
+    background-image: url("origami_grid2IMG.jpg");
+
+    width: 499.7px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
